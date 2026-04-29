@@ -40,7 +40,13 @@ NASA CMAPSS Turbofan Engine Dataset
 
 ## System Architecture
 
-Data Ingestion → Health Index Modeling → LSTM Failure Forecasting → Cost-Aware Decision Optimization → Counterfactual Reasoning → Feedback Loop
+The system follows a multi-layer pipeline:
+
+1. Data Ingestion → Sensor data preprocessing
+2. Health Index Computation → Normalized degradation score
+3. RUL Prediction → LSTM-based forecasting
+4. Decision Layer → Cost-aware action selection
+5. Simulation Layer → Counterfactual analysis
 
 ---
 
@@ -58,6 +64,3 @@ Tushar Mishra · Kushal Singh · Archit Yadav · Mayank Singh
 Amity University, Noida — CSE Department
 Presented at **AICraft 3.1**, Amity Centre for Artificial Intelligence
 
-
-
-## System Architecture
