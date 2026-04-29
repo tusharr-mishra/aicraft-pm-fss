@@ -38,6 +38,26 @@ NASA CMAPSS Turbofan Engine Dataset
 
 `Python` · `LSTM` · `DNN` · `NumPy` · `Pandas` · `Matplotlib`
 
+## System Architecture
+
+Data Ingestion → Health Index Modeling → LSTM Failure Forecasting → Cost-Aware Decision Optimization → Counterfactual Reasoning → Feedback Loop
+
 ---
+
+## Results
+
+- Predictive maintenance reduces costs by 20–50% vs reactive approach
+- LSTM model continuously updates RUL predictions as new sensor data arrives
+- Cost optimizer selects actions using Expected Total Cost (ETC) formula
+
+---
+
+## Team
+
+Tushar Mishra · Kushal Singh · Archit Yadav · Mayank Singh
+Amity University, Noida — CSE Department
+Presented at **AICraft 3.1**, Amity Centre for Artificial Intelligence
+
+
 
 ## System Architecture
